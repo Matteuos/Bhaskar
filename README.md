@@ -1,0 +1,2 @@
+# Bhaskar
+Quadratic equations calculattor 
